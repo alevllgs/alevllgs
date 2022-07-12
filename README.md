@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Villegas</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working on **Digital Health medical supervision**
+- 🔭 I’m currently working on **Hospital management control**
 
 - 🌱 I’m currently learning **R, Python, SQL, HTML, CSS3, JavaScript**
 
