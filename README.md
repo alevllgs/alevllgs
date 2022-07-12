@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alejandro Villegas</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working on **Hospital management control**
+- 🔭 I’m currently working in **Hospital Management Control**
 
 - 🌱 I’m currently learning **R, Python, SQL, HTML, CSS3, JavaScript**
 
-- 💬 Ask me about **R, Python**
+- 💬 Ask me about **R, Python, Tableau**
 
 - 📫 How to reach me **ale.villegas@uc.cl**
 
