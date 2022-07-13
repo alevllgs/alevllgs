@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alejandro Villegas</h1>
 <h3 align="center">Data Scientist | Business Intelligence</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alevllgsj&label=Profile%20views&color=0e75b6&style=flat" alt="alevllgs" /> </p>
+
 - 🔭 I’m currently working in **Hospital Management Control**
 
 - 🌱 I’m currently learning **R, Python, SQL, HTML, CSS3, JavaScript**
