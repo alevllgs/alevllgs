@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **R, Python, Tableau**
 
-- 📫 How to reach me **ale.villegas@uc.cl**
+- 📫 How to reach me **alejandro.villegas.m@gmail.cl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
