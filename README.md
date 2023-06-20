@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Alejandro Villegas</h1>
-<h3 align="center">Data Scientist | Business Intelligence </h3>
+<h1 align="center">Hola 👋, soy Alejandro Villegas</h1>
+<h3 align="center"> Ingeniero Comercial | Data Scientist | Business Intelligence </h3>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=alevllgsj&label=Profile%20views&color=0e75b6&style=flat" alt="alevllgs" />
 </p>
 
-- 🔭 I’m currently working in **Hospital Management Control**
+- 🔭 Trabajo en  **Servicio de Salud Metropolitano**
 
-- 🌱 I’m currently learning **R, Python, SQL, HTML, CSS3, JavaScript**
+- 🌱 Me gusta aprender sobre **R, Python, SQL, HTML, CSS3, JavaScript**
 
-- 💬 Ask me about **R, Python, Tableau**
+- 💬 Me puedes preguntar sobre  **R y Tableau**
 
-- 📫 How to reach me **alejandro.villegas.m@gmail.com**
+- 📫 Mi correo es **alejandro.villegas.m@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,7 @@
 <img align="center" src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="Alejandro-Villegas" height="45px" width="200px" /></a>
 
 <h3 align="left">
-Languages and Tools:
+Lenguajes y herramientas:
 </h3>
 
 <p align="left"> 
