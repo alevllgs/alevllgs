@@ -7,7 +7,7 @@
 
 - 🔭 Trabajo en  **Servicio de Salud Metropolitano**
 
-- 🌱 Me gusta aprender sobre **R, Python, SQL, HTML, CSS3, JavaScript**
+- 🌱 Me gusta aprender sobre **R, Python, SQL, HTML, CSS, JavaScript**
 
 - 💬 Me puedes preguntar sobre  **R y Tableau**
 
