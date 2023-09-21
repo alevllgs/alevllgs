@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=alevllgsj&label=Profile%20views&color=0e75b6&style=flat" alt="alevllgs" />
 </p>
 
-- 🔭 Trabajo en  **Servicio de Salud Metropolitano**
+- 🔭 Trabajo en  **Servicio de Salud Metropolitano Oriente**
 
 - 🌱 Me gusta aprender sobre **R, Python, SQL, HTML, CSS, JavaScript**
 
