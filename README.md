@@ -2,10 +2,10 @@
 <h3 align="center"> Ingeniero Comercial | Data Scientist | Business Intelligence </h3>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=alevllgsj&label=Profile%20views&color=0e75b6&style=flat" alt="alevllgs" />
+
   <a href="https://www.linkedin.com/in/alevllgs/"><img src="https://img.shields.io/badge/-alevllgs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alevllgs/" alt="https://www.linkedin.com/in/falevllgs/"></a>
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dalevllgs&longCache=true"/>
-
+<img src="https://komarev.com/ghpvc/?username=alevllgsj&label=Profile%20views&color=0e75b6&style=flat" alt="alevllgs" />
 </p>
 
 
