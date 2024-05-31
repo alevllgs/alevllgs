@@ -52,10 +52,13 @@ Lenguajes y herramientas:
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> </a> 
 
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-<img src="https://commons.wikimedia.org/wiki/File:Node.js_logo_2015.svg" alt="Node" width="40" height="40"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node" width="40" height="40"/> </a> 
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
 <img src="https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg" alt="Postgresql" width="40" height="40"/> </a> 
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://commons.wikimedia.org/wiki/File:MySQL_Dolphin.jpg" alt="Postgresql" width="40" height="40"/> </a> 
 
 
 
