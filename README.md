@@ -13,9 +13,9 @@
 
 - 🔭 Trabajo en  **Servicio de Salud Metropolitano Oriente**
 
-- 🌱 Me gusta aprender sobre **R, Python, SQL, HTML, CSS, JavaScript**
+- 🌱 Me gusta aprender sobre **R, Python, SQL, HTML, CSS, JavaScript, React, NodeJS**
 
-- 💬 Me puedes preguntar sobre  **R y Tableau**
+- 💬 Me puedes preguntar sobre  **R, Tableau y Power BI**
 
 - 📫 Mi correo es **alejandro.villegas.m@gmail.com**
 
