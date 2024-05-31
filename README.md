@@ -10,7 +10,6 @@
 
 
 
-
 - 🔭 Trabajo en  **Servicio de Salud Metropolitano Oriente**
 
 - 🌱 Me gusta aprender sobre **R, Python, SQL, HTML, CSS, JavaScript, React, NodeJS**
@@ -41,26 +40,22 @@ Lenguajes y herramientas:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
 <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> </a>
+  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  
 <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> </a> 
-
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node" width="40" height="40"/> </a> 
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Postgresql" width="40" height="40"/> </a> 
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/MySQL_Dolphin.jpg" alt="Mysql" width="40" height="40"/> </a> 
-
-
 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" alt="tableau" width="40" height="40"/> </a>
