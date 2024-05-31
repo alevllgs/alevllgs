@@ -48,7 +48,7 @@ Lenguajes y herramientas:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   
-<a href="https://es.react.dev/" target="React" rel="noreferrer"> 
+<a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
 <img src="http://www.w3.org/2000/svg" alt="React" width="40" height="40"/> </a> 
 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
