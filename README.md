@@ -58,7 +58,7 @@ Lenguajes y herramientas:
 <img src="https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg" alt="Postgresql" width="40" height="40"/> </a> 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://commons.wikimedia.org/wiki/File:MySQL_Dolphin.jpg" alt="Postgresql" width="40" height="40"/> </a> 
+<img src="https://commons.wikimedia.org/wiki/File:MySQL_Dolphin.jpg" alt="Mysql" width="40" height="40"/> </a> 
 
 
 
