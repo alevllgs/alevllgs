@@ -46,7 +46,11 @@ Lenguajes y herramientas:
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  
+<a href="https://es.react.dev/" target="React" rel="noreferrer"> 
+<img src="http://www.w3.org/2000/svg" alt="React" width="40" height="40"/> </a> 
+
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" alt="tableau" width="40" height="40"/> </a>
 <a href="https://datastudio.google.com/" target="_blank" rel="noreferrer"> 
