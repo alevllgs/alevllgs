@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alejandro Villegas</h1>
-<h3 align="center"> Ingeniero Comercial | Data Scientist | Business Intelligence | Desarrollador full stack trainee </h3>
+<h3 align="center"> Ingeniero Comercial | Data Scientist | Desarrollador full stack trainee </h3>
 
 <p align="left"> 
 
