@@ -48,8 +48,8 @@ Lenguajes y herramientas:
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Php-logo.png" alt="css3" width="40" height="40"/> </a> 
-<a href="https://upload.wikimedia.org/wikipedia/commons/2/2a/Php-logo.png" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> </a> 
