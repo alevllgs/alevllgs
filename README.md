@@ -67,11 +67,10 @@ Lenguajes y herramientas:
 
 <h3 align="left">Statistics:</h3>
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alevllgs](https://github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&langs_count=10&show_icons=true&locale=en&layout=compact" alt="alevllgs" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&langs_count=10" alt="Top Languages">
 </p>
 
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alevllgs&show_icons=true&locale=en" alt="alevllgs" />
 </p>
-
 
