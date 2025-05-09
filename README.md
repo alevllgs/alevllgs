@@ -32,8 +32,6 @@ Lenguajes y herramientas:
 <p align="left"> 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.r-project.org/Rlogo.png" width="40" height="40" alt="R"/> </a>  
-<a href="hhttps://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png" target="rmarkdown" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png" alt="rmarkdown" width="37" height="40"/> </a>
 <a href="https://shiny.rstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/rstudio/shiny/blob/main/man/figures/logo.png" alt="shiny" width="37" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
