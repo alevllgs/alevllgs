@@ -153,9 +153,6 @@ Lenguajes y herramientas:
 | | | |
 |---|---|---|
 |**📈 Validador SIGCOM**<br><sup>Verificación de calidad de datos del Sistema de Costeo MINSAL</sup>|**🗄️ Egresos Listas de Espera**<br><sup>Proceso Automatizado de Egresos de la Lista de Espera</sup>|**🗄️ Página Web DIS**<br><sup>Página web del Departamento de Información Sanitaria del SSMO</sup>
-
-| | | |
-|---|---|---|
 |**📈 Reportes Facturación GRD**<br><sup>Automatización de reportes por establecimiento</sup>|**🗄️ Reportes Facturación SIGGES**<br><sup>Automatización de reportes por establecimiento</sup>|**🗄️ Dashboard de Financiamiento Hospitalario**<br><sup>Información GRD - SIGGES - SIGCOM - Metas Sanitarias - Contrato con FONASA</sup>
 
 ---
