@@ -29,44 +29,6 @@
 Lenguajes y herramientas:
 </h3>
 
-<p align="left"> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.r-project.org/Rlogo.png" width="40" height="40" alt="R"/> </a>  
-<a href="https://shiny.rstudio.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/rstudio/shiny/blob/main/man/figures/logo.png" alt="shiny" width="37" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-<img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> </a>
-
-
-  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node" width="40" height="40"/> </a> 
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/MySQL_Dolphin.jpg" alt="Mysql" width="40" height="40"/> </a> 
-
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-<img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" alt="tableau" width="40" height="40"/> </a>
-<a href="https://datastudio.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="powerbi" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/es-es/desktop/" target="_blank" rel="noreferrer"> 
-<img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" alt="datastudio" width="40" height="40"/> </a>
-</p>
-
 
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -78,7 +40,7 @@ Lenguajes y herramientas:
     </td>
     <td align="center" width="96">
       <a href="https://shiny.rstudio.com/">
-        <img src="https://github.com/rstudio/shiny/blob/main/man/figures/logo.png" alt="icon" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Shiny_hex_logo.svg" alt="icon" width="40" height="40"/>
       </a>
       <br>Shiny
     </td>
@@ -95,19 +57,19 @@ Lenguajes y herramientas:
       <br>Power BI
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-      <br>MySQL
+        <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" alt="icon" width="40" height="40" />
+      <br>Looker Studio
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="40" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
       <br>Python
     </td>
   </tr>
@@ -124,8 +86,8 @@ Lenguajes y herramientas:
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
-      <br>Laravel
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="MySQL" />
+      <br>MySQL
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
@@ -140,18 +102,18 @@ Lenguajes y herramientas:
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
-      <br>Android
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
-      <br>jQuery
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"width="40" height="40" alt="SQLite" />
+      <br>SQLite
     </td>
   </tr>
  <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+      <br>VsCode
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
@@ -159,33 +121,33 @@ Lenguajes y herramientas:
       </td>
       </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-      <br>PHP
+        <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40" alt="Jupyter" />
+      <br>Jupyter
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" width="40" height="40" alt="R Studio" />
+      <br>R Studio
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
-      <br>WordPress
+        <img src="https://user-images.githubusercontent.com/1769619/195922332-4308bb3c-ccfd-47e6-b6a6-f48b94c22fcf.svg" width="40" height="40" alt="Quarto" />
+      <br>Quarto
     </td>
               <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Vue" />
-      <br>Dotnet
+        <img src="https://pkgs.rstudio.com/rmarkdown/reference/figures/logo.png" width="40" height="40" alt="R Markdown" />
+      <br>R Markdown
   <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
+      <a href="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Tidyverse_hex_logo.png" alt="Tidyverse" width="40" height="40" />
       </a>
-      <br>SQLite
+      <br>Tidyverse
     </td>
               <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
-      <br>Java
+        <img src="https://ycphs.github.io/openxlsx/reference/figures/logo.png" width="40" height="40" alt="Openxlsx" />
+      <br>Openxlsx
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://odbc.r-dbi.org/logo.png" width="40" height="40" alt="DBI" />
+      <br>DBI
     </td>
  </tr>
 </table>
