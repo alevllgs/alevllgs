@@ -1,34 +1,21 @@
-<h1 align="center">Hola 👋, soy Alejandro Villegas</h1>
-<h3 align="center"> Ingeniero Comercial | Data Scientist | Desarrollador full stack | Automatización de procesos</h3>
-
-<p align="left"> 
-
-  <a href="https://www.linkedin.com/in/ale-villegas/"><img src="https://img.shields.io/badge/-alevllgs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ale-villegas/" alt="https://www.linkedin.com/in/ale-villegas/"></a>
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dalevllgs&longCache=true"/>
-<img src="https://komarev.com/ghpvc/?username=alevllgsj&label=Profile%20views&color=0e75b6&style=flat" alt="alevllgs" />
+<h1 align="center">¡Hola! 🙌 soy Alejandro Villegas</h1>
+<p align="center">
+  Ingeniero Comercial · 🏥 Magister en Gestión Estratégica en Salud · 🧑‍💻 Full‑stack · 📊 Data Scientist<br>
+  <em>Automatizo procesos y convierto datos en decisiones</em>
 </p>
 
 
+<!-- Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ale-villegas/"><img
+    src="https://img.shields.io/badge/LinkedIn-AleVillegas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=alevllgs&color=brightgreen&style=for-the-badge" alt="Views" />
+</p>
 
-- 🔭 Trabajo en  **Servicio de Salud Metropolitano Oriente**
-
-- 🌱 Me gusta aprender sobre **R, Python, SQL, HTML, CSS, JavaScript, React, NodeJS**
-
-- 💬 Me puedes preguntar sobre  **R, Tableau y Power BI**
-
-- 📫 Mi correo es **alejandro.villegas.m@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ale-villegas" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alejandro-Villegas" height="34" width="45" /></a>
-<a href="https://public.tableau.com/app/profile/alejandro.villegas.mardones" target="blank">
-<img align="center" src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="Alejandro-Villegas" height="45px" width="200px" /></a>
-
+---
 <h3 align="left">
 Lenguajes y herramientas:
 </h3>
-
 
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -154,8 +141,27 @@ Lenguajes y herramientas:
 <br><br>
 </table>
 
+---
 
-<h3 align="left">Statistics:</h3>
+### 📬 Contacto
+- **Correo** · <alejandro.villegas.m@gmail.com>  
+- **LinkedIn** · [in/ale‑villegas](https://www.linkedin.com/in/ale-villegas)
+
+---
+
+### ✨ Proyectos estelares
+| | | |
+|---|---|---|
+|**📈 Validador SIGCOM**<br><sup>Verificación de calidad de datos del Sistema de Costeo MINSAL</sup>|**🗄️ Egresos Listas de Espera**<br><sup>Proceso Automatizado de Egresos de la Lista de Espera</sup>|**🗄️ Página Web DIS**<br><sup>Página web del Departamento de Información Sanitaria del SSMO</sup>
+
+| | | |
+|---|---|---|
+|**📈 Reportes Facturación GRD**<br><sup>Automatización de reportes por establecimiento</sup>|**🗄️ Reportes Facturación SIGGES**<br><sup>Automatización de reportes por establecimiento</sup>|**🗄️ Dashboard de Financiamiento Hospitalario**<br><sup>Información GRD - SIGGES - SIGCOM - Metas Sanitarias - Contrato con FONASA</sup>
+
+---
+
+<details>
+<summary>📊 Estadísticas rápidas</summary>
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&langs_count=10" alt="Top Languages">
 </p>
@@ -163,4 +169,5 @@ Lenguajes y herramientas:
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alevllgs&show_icons=true&locale=en" alt="alevllgs" />
 </p>
+</details>
 
