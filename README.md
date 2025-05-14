@@ -67,54 +67,54 @@ Lenguajes y herramientas:
 <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" alt="datastudio" width="40" height="40"/> </a>
 </p>
 
+
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-       <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://www.r-project.org/Rlogo.png" alt="icon" width="40" height="40" />
       <br>R
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      <a href="https://shiny.rstudio.com/">
+        <img src="https://github.com/rstudio/shiny/blob/main/man/figures/logo.png" alt="icon" width="40" height="40" />
       </a>
-      <br>Python
+      <br>Shiny
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="icon" width="40" height="40" />
+      <br>PHP
     </td>
- 
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
-      <br>Webpack
+        <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" alt="icon" width="40" height="40" />
+      <br>Tableau
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="icon" width="40" height="40" />
+      <br>Power BI
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
-      <br>TypeScript
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
-      <br>AWS
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
-      <br>C#
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      <br>Python
     </td>
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
-      <br>Django
+        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="40" height="40" />
+      <br>PostgreSQL
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
