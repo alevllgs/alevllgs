@@ -103,8 +103,8 @@ Lenguajes y herramientas:
       <br>VsCode
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
-      <br>Nodejs
+        <img src="https://pkgs.rstudio.com/rmarkdown/reference/figures/logo.png" width="40" height="40" alt="Nodejs" />
+      <br>R Studio
       </td>
       </td>
     <td align="center" width="96">
@@ -112,8 +112,8 @@ Lenguajes y herramientas:
       <br>Jupyter
     </td>
             <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" width="40" height="40" alt="R Studio" />
-      <br>R Studio
+        <img src="https://posit.co/wp-content/uploads/2024/11/positron-logo-imgfeat-e1731611559453.png" width="40" height="40" alt="R Studio" />
+      <br>Positron
     </td>
               <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/1769619/195922332-4308bb3c-ccfd-47e6-b6a6-f48b94c22fcf.svg" width="40" height="40" alt="Quarto" />
