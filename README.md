@@ -112,8 +112,8 @@ Lenguajes y herramientas:
       <br>Jupyter
     </td>
             <td align="center" width="96">
-        <img src="https://posit.co/wp-content/uploads/2024/11/positron-logo-imgfeat-e1731611559453.png" width="40" height="40" alt="R Studio" />
-      <br>Positron
+        <img src="https://dplyr.tidyverse.org/logo.png" width="40" height="40" alt="R Studio" />
+      <br>dplyr
     </td>
               <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/1769619/195922332-4308bb3c-ccfd-47e6-b6a6-f48b94c22fcf.svg" width="40" height="40" alt="Quarto" />
