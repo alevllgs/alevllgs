@@ -40,7 +40,7 @@ Lenguajes y herramientas:
       <br>Tableau
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="icon" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" alt="icon" width="40" height="40" />
       <br>Power BI
     </td>
     <td align="center" width="96">
