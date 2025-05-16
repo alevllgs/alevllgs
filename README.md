@@ -103,7 +103,7 @@ Lenguajes y herramientas:
       <br>VsCode
     </td>
         <td align="center" width="96">
-        <img src="https://pkgs.rstudio.com/rmarkdown/reference/figures/logo.png" width="40" height="40" alt="Nodejs" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" width="40" height="40" alt="Nodejs" />
       <br>R Studio
       </td>
       </td>
