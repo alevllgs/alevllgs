@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 🙌 soy Alejandro Villegas</h1>
 <p align="center">
-  Ingeniero Comercial · 🏥 Magister en Gestión Estratégica en Salud · 🧑‍💻 Full‑stack · 📊 Data Scientist<br>
+  👾 Ingeniero Comercial · 🏥 Magister en Gestión Estratégica en Salud · 🧑‍💻 Full‑stack · 📊 Data Scientist<br>
   <em>Automatizo procesos y convierto datos en decisiones</em>
 </p>
 
