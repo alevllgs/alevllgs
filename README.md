@@ -156,13 +156,20 @@ Lenguajes y herramientas:
 |**📈 Reportes Facturación GRD**<br><sup>Automatización de reportes por establecimiento</sup>|**🗄️ Reportes Facturación SIGGES**<br><sup>Automatización de reportes por establecimiento</sup>|**🗄️ Dashboard de Financiamiento Hospitalario**<br><sup>Información GRD - SIGGES - SIGCOM - Metas Sanitarias - Contrato con FONASA</sup>
 
 ---
-
+<details>
 <summary>📊 Estadísticas rápidas</summary>
+
 <p align="left">
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&langs_count=10" alt="Top Languages">
+
 </p>
+
+
 
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alevllgs&show_icons=true&locale=en" alt="alevllgs" />
-</p>
 
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alevllgs&show_icons=true&locale=en" alt="alevllgs" />
+
+</p>
+</details>
