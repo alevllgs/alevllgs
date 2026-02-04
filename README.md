@@ -164,5 +164,5 @@ Lenguajes y herramientas:
 
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alevllgs&show_icons=true&locale=en" alt="alevllgs" />
-</p>  ya pero damelas en este trozo de codigo
+</p>
 
