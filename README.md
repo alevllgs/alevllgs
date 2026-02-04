@@ -157,14 +157,12 @@ Lenguajes y herramientas:
 
 ---
 
-<details open>
-  <summary>📊 Estadísticas rápidas</summary>
-  <p align="left">
-    <img align="left" src="https://github-readme-stats-git-masterrstaa-main.vercel.app/api/top-langs/?username=alevllgs&langs_count=10&theme=dracula&layout=compact" alt="Top Languages" height="165px" />
-    
-    <img align="left" src="https://github-readme-stats-git-masterrstaa-main.vercel.app/api?username=alevllgs&show_icons=true&theme=dracula&locale=es" alt="alevllgs" height="165px" />
-  </p>
-</details>
+<summary>📊 Estadísticas rápidas</summary>
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&langs_count=10" alt="Top Languages">
+</p>
 
-<br clear="both">
+<p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alevllgs&show_icons=true&locale=en" alt="alevllgs" />
+</p>  ya pero damelas en este trozo de codigo
 
