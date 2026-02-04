@@ -157,19 +157,14 @@ Lenguajes y herramientas:
 
 ---
 
-<details>
-<summary>📊 Estadísticas rápidas</summary>
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&langs_count=10&theme=visual-studio-code&layout=compact" alt="Top Languages" height="165px" />
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alevllgs&show_icons=true&theme=visual-studio-code&locale=es" alt="Estadísticas de alevllgs" height="165px" />
-</p>
+<details open>
+  <summary>📊 Estadísticas rápidas</summary>
+  <p align="left">
+    <img align="left" src="https://github-readme-stats-git-masterrstaa-main.vercel.app/api/top-langs/?username=alevllgs&langs_count=10&theme=dracula&layout=compact" alt="Top Languages" height="165px" />
+    
+    <img align="left" src="https://github-readme-stats-git-masterrstaa-main.vercel.app/api?username=alevllgs&show_icons=true&theme=dracula&locale=es" alt="alevllgs" height="165px" />
+  </p>
+</details>
 
 <br clear="both">
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=alevllgs&theme=visual-studio-code" alt="GitHub Streak" />
-</p>
-</details>
 
