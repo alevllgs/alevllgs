@@ -159,6 +159,38 @@ Lenguajes y herramientas:
 <details open>
 <summary>📊 Estadísticas rápidas</summary>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=alevllgs&theme=tokyonight" alt="Lenguajes de alevllgs" />
+<summary><h2>📊 GitHub Stats</h2></summary>
+
+  <br>
+  
+<p align="center">
+
+  <!-- Row 1: Main Stats + Alternate Stats -->
+  <a href="https://github.com/alevllgs" target="_blank" style="margin-right:16px;">
+    <img src="https://gh-readme-profile.vercel.app/api?username=alevllgs&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="alevllgs GitHub stats" height="142px"/>
+  </a>
+
+  <a href="https://github.com/alevllgs" target="_blank">
+    <img alt="alevllgs GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alevllgs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+  </a>
+
+</p>
+
+<p align="center" style="margin-top:16px;">
+
+  <!-- Row 2: Streak Stats + Top Languages -->
+  <a href="https://github.com/alevllgs" target="_blank" style="margin-right:16px;">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="alevllgs streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=alevllgs&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
+  </a>
+
+  <a href="https://github.com/alevllgs" target="_blank">
+    <img 
+      alt="Maher's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
+      height="162px"
+    />
+  </a>
+
+</p>
 
 </details>
