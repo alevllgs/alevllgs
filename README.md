@@ -157,7 +157,6 @@ Lenguajes y herramientas:
 
 ---
 <details open>
-<summary>📊 Estadísticas rápidas</summary>
 
 <summary><h2>📊 GitHub Stats</h2></summary>
 
