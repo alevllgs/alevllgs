@@ -157,19 +157,10 @@ Lenguajes y herramientas:
 
 ---
 <details>
-<summary>📊 Estadísticas rápidas</summary>
-
-<p align="left">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&langs_count=10" alt="Top Languages">
-
-</p>
-
-
-
-<p>
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alevllgs&show_icons=true&locale=en" alt="alevllgs" />
-
-</p>
+  <summary>📊 Estadísticas rápidas</summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&langs_count=10&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alevllgs&show_icons=true&locale=es" alt="Estadísticas de alevllgs" />
+  </div>
 </details>
