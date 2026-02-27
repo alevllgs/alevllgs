@@ -159,6 +159,6 @@ Lenguajes y herramientas:
 <details open>
 <summary>📊 Estadísticas rápidas</summary>
 
-![Mi Streak](https://github-readme-streak-stats.herokuapp.com/?user=alevllgs&theme=dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=alevllgs&theme=2077)
 
 </details>
