@@ -159,6 +159,6 @@ Lenguajes y herramientas:
 <details open>
 <summary>📊 Estadísticas rápidas</summary>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&layout=compact&hide=html,css&theme=dark" alt="Top Langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=alevllgs&theme=2077" alt="Lenguajes de alevllgs" />
 
 </details>
