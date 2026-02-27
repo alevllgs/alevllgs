@@ -159,8 +159,6 @@ Lenguajes y herramientas:
 <details open>
 <summary>📊 Estadísticas rápidas</summary>
 
-| Lenguajes más usados | Estadísticas Generales |
-| :---: | :---: |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&layout=compact&theme=vision-friendly-dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alevllgs&show_icons=true&locale=es&theme=vision-friendly-dark) |
+![Mi Streak](https://github-readme-streak-stats.herokuapp.com/?user=alevllgs&theme=dark)
 
 </details>
