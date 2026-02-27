@@ -157,39 +157,25 @@ Lenguajes y herramientas:
 
 ---
 <details open>
+<summary><h2>📊 Mi Actividad en GitHub</h2></summary>
+<br>
 
-<summary><h2>📊 GitHub Stats</h2></summary>
-
-  <br>
-  
 <p align="center">
-
-  <!-- Row 1: Main Stats + Alternate Stats -->
-  <a href="https://github.com/alevllgs" target="_blank" style="margin-right:16px;">
-    <img src="https://gh-readme-profile.vercel.app/api?username=alevllgs&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="alevllgs GitHub stats" height="142px"/>
-  </a>
-
   <a href="https://github.com/alevllgs" target="_blank">
-    <img alt="alevllgs GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alevllgs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+    <img src="https://gh-readme-profile.vercel.app/api?username=alevllgs&theme=tokyonight&bg_color=0d1117&title_color=00d1b2&text_color=acb1c3&icon_color=bb9af7&username_color=bb9af7" alt="Stats Perfil" height="150px"/>
   </a>
-
+  <a href="https://github.com/alevllgs" target="_blank">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alevllgs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=00d1b2&icon_color=bb9af7&text_color=acb1c3&hide_border=false" alt="Stats Generales" height="150px"/>
+  </a>
 </p>
 
-<p align="center" style="margin-top:16px;">
-
-  <!-- Row 2: Streak Stats + Top Languages -->
-  <a href="https://github.com/alevllgs" target="_blank" style="margin-right:16px;">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="alevllgs streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=alevllgs&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
-  </a>
-
+<p align="center">
   <a href="https://github.com/alevllgs" target="_blank">
-    <img 
-      alt="Maher's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
-      height="162px"
-    />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=alevllgs&theme=tokyonight&background=0d1117&stroke=00d1b2&ring=bb9af7&fire=ff9e64&currStreakNum=00d1b2&sideNums=acb1c3&dates=70a5fd" alt="Streak" height="165px"/>
   </a>
-
+  <a href="https://github.com/alevllgs" target="_blank">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alevllgs&langs_count=8&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d1b2&icon_color=bb9af7&text_color=acb1c3&hide_border=false" alt="Top Languages" height="165px"/>
+  </a>
 </p>
 
 </details>
