@@ -159,6 +159,6 @@ Lenguajes y herramientas:
 <details open>
 <summary>📊 Estadísticas rápidas</summary>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=alevllgs&theme=2077)
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=alevllgs&layout=compact&theme=dark" alt="Top Langs" />
 
 </details>
