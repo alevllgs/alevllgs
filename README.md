@@ -161,9 +161,7 @@ Lenguajes y herramientas:
 <br>
 
 <p align="center">
-  <a href="https://github.com/alevllgs" target="_blank">
-    <img src="https://gh-readme-profile.vercel.app/api?username=alevllgs&theme=tokyonight&bg_color=0d1117&title_color=00d1b2&text_color=acb1c3&icon_color=bb9af7&username_color=bb9af7" alt="Stats Perfil" height="150px"/>
-  </a>
+
   <a href="https://github.com/alevllgs" target="_blank">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alevllgs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=00d1b2&icon_color=bb9af7&text_color=acb1c3&hide_border=false" alt="Stats Generales" height="150px"/>
   </a>
