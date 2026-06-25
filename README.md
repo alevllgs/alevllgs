@@ -136,6 +136,10 @@ Lenguajes y herramientas:
         <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40" alt="DBI" />
       <br>Jupyter
     </td>
+    <td align="center" width="96">
+        <img src="	https://opencode.ai/_build/assets/preview-opencode-wordmark-dark-tZ1Y3VXe.png" width="40" height="40" alt="DBI" />
+      <br>OpenCode
+    </td>
  </tr>
 </table>
 
