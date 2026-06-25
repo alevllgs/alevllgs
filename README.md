@@ -97,6 +97,56 @@ Lenguajes y herramientas:
       <br>Bootstrap
     </td>
   </tr>
+
+
+
+
+
+ <tr>
+      <td align="center" width="96">
+        <img src="https://opencode.ai/_build/assets/preview-opencode-wordmark-dark-tZ1Y3VXe.png" width="40" height="40" alt="Tableau" />
+      <br>Opencode
+    </td>
+        <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" width="40" height="40" alt="Power BI" />
+      <br>Power BI
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" width="40" height="40" alt="Looker Studio" />
+      <br>Looker Studio
+    </td>
+            <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Github" />
+      <br>Python
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Git" />
+      <br>Nodejs
+    </td>
+              <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="Nodejs" />
+      <br>Github
+  <td align="center" width="96">
+      <a href="">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Tidyverse" width="40" height="40" />
+      </a>
+      <br>Git
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="Openxlsx" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40" alt="DBI" />
+      <br>Jupyter
+    </td>
+  </tr>
+
+
+
+
+  
  <tr>
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" width="40" height="40" alt="Tableau" />
@@ -136,11 +186,9 @@ Lenguajes y herramientas:
         <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40" alt="DBI" />
       <br>Jupyter
     </td>
-    <td align="center" width="96">
-        <img src="	https://opencode.ai/_build/assets/preview-opencode-wordmark-dark-tZ1Y3VXe.png" width="40" height="40" alt="DBI" />
-      <br>OpenCode
-    </td>
- </tr>
+  </tr>
+
+  
 </table>
 
 
