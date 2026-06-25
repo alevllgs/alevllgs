@@ -104,7 +104,7 @@ Lenguajes y herramientas:
 
  <tr>
       <td align="center" width="96">
-        <img src="https://opencode.ai/_build/assets/preview-opencode-logo-dark-ZBwNGoYp.png" width="40" height="40" alt="Tableau" />
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-dark.svg" width="40" height="40" alt="Tableau" />
       <br>Opencode
     </td>
         <td align="center" width="96">
