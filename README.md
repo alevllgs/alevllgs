@@ -85,8 +85,8 @@ Lenguajes y herramientas:
       <br>JavaScript
     </td>
     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />
-      <br>React
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="React" />
+      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="40" height="40" alt="PHP" />
@@ -113,33 +113,33 @@ Lenguajes y herramientas:
       </td>
       </td>
     <td align="center" width="96">
-        <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" width="40" height="40" alt="Looker Studio" />
-      <br>Looker Studio
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/minimax.svg" width="40" height="40" alt="Looker Studio" />
+      <br>Minimax
     </td>
             <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Github" />
-      <br>Python
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/ollama.png" width="40" height="40" alt="Github" />
+      <br>Ollama
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Git" />
-      <br>Nodejs
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/deepseek.svg" width="40" height="40" alt="Git" />
+      <br>Deepseek
     </td>
               <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="Nodejs" />
-      <br>Github
+        <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/claude.svg" width="40" height="40" alt="Nodejs" />
+      <br>Claude
   <td align="center" width="96">
       <a href="">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Tidyverse" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" alt="Tidyverse" width="40" height="40" />
       </a>
-      <br>Git
+      <br>Gemini
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="Openxlsx" />
-      <br>VsCode
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" width="40" height="40" alt="Openxlsx" />
+      <br>ChatGPT
     </td>
     <td align="center" width="96">
-        <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40" alt="DBI" />
-      <br>Jupyter
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/kimi-color.svg" width="40" height="40" alt="DBI" />
+      <br>Kimi
     </td>
   </tr>
 
@@ -162,15 +162,15 @@ Lenguajes y herramientas:
       <br>Looker Studio
     </td>
             <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Github" />
-      <br>Python
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="Github" />
+      <br>React
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Git" />
       <br>Nodejs
     </td>
               <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="Nodejs" />
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/github.png" width="40" height="40" alt="Nodejs" />
       <br>Github
   <td align="center" width="96">
       <a href="">
