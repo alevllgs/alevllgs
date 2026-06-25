@@ -27,7 +27,7 @@ Lenguajes y herramientas:
     </td>
     <td align="center" width="96">
       <a href="https://shiny.rstudio.com/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="icon" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rstudio.svg" alt="icon" width="40" height="40"/>
       </a>
       <br>R Studio
     </td>
