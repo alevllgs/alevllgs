@@ -104,12 +104,12 @@ Lenguajes y herramientas:
 
  <tr>
       <td align="center" width="96">
-        <img src="https://opencode.ai/_build/assets/preview-opencode-wordmark-dark-tZ1Y3VXe.png" width="40" height="40" alt="Tableau" />
+        <img src="https://opencode.ai/_build/assets/preview-opencode-logo-dark-ZBwNGoYp.png" width="40" height="40" alt="Tableau" />
       <br>Opencode
     </td>
         <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" width="40" height="40" alt="Power BI" />
-      <br>Power BI
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/hermesagent.svg" width="40" height="40" alt="Power BI" />
+      <br>Hermes Agent
       </td>
       </td>
     <td align="center" width="96">
