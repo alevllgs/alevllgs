@@ -29,7 +29,7 @@ Lenguajes y herramientas:
       <a href="https://shiny.rstudio.com/">
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rstudio.svg" alt="icon" width="40" height="40"/>
       </a>
-      <br>R Studio
+      <br>Rstudio
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Shiny_hex_logo.svg" alt="icon" width="40" height="40" />
