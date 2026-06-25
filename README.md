@@ -108,7 +108,7 @@ Lenguajes y herramientas:
       <br>Opencode
     </td>
         <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/hermesagent.svg" width="40" height="40" alt="Power BI" />
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/hermesagent.png" width="40" height="40" alt="Power BI" />
       <br>Hermes Agent
       </td>
       </td>
